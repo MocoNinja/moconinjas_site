@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://moconinja.github.io/moconinjas_site/'
 languageCode = 'es-es'
 title = 'My New Hugo Site'
 theme = 'moconinjas_theme'
