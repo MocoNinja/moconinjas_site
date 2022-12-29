@@ -1,3 +1,38 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
+languageCode = 'es-es'
 title = 'My New Hugo Site'
+theme = 'moconinjas_theme'
+
+[menu]
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+pre = ""
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "Sobre mí"
+pre = ""
+url = "/pages/about/"
+weight = 2
+
+
+[[menu.main]]
+identifier = "recipe"
+name = "Recipes"
+pre = ""
+url = "/recipes/"
+weight = 3
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+pre = ""
+url = "/blog/"
+weight = 4
+
+[taxonomies]
+tag = "tags"
