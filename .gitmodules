@@ -1,0 +1,3 @@
+[submodule "themes/moconinjas_theme"]
+	path = themes/moconinjas_theme
+	url = git@github.com:MocoNinja/moconinjas_theme.git
