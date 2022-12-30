@@ -22,10 +22,10 @@ weight = 2
 
 
 [[menu.main]]
-identifier = "recipe"
-name = "Recipes"
+identifier = "pills"
+name = "Supositorios"
 pre = ""
-url = "/recipes/"
+url = "/pills/"
 weight = 3
 
 [[menu.main]]
