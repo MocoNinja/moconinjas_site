@@ -1,3 +1,6 @@
 [submodule "themes/moconinjas_theme"]
 	path = themes/moconinjas_theme
 	url = git@github.com:MocoNinja/moconinjas_theme.git
+[submodule "content/pills/documentacion"]
+	path = content/pills/documentacion
+	url = git@github.com:MocoNinja/documentacion.git
