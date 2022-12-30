@@ -2,7 +2,7 @@
 title: "Ejemplo1"
 date: 2022-12-29T20:39:16+01:00
 tags: ["docker", "linux"]
-draft: true
+draft: false
 ---
 
 Officia velit culpa eu exercitation ut pariatur cillum cupidatat ut. Lorem labore mollit sint ut officia reprehenderit mollit aliqua eiusmod officia magna amet qui. Adipisicing enim qui aliqua ea cupidatat eu nulla elit excepteur consequat consectetur non mollit pariatur. Sit quis nostrud elit aliquip deserunt ut do amet anim incididunt qui officia nulla. Eiusmod nostrud magna laborum proident sit labore qui enim non cillum.

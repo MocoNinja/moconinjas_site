@@ -2,7 +2,7 @@
 title: "Otro_ejemplo"
 date: 2022-12-29T20:43:48+01:00
 tags: ["test", "patatas"]
-draft: true
+draft: false
 ---
 
 Labore pariatur mollit nostrud in labore. Ut sint cupidatat incididunt incididunt laborum qui esse veniam nostrud laborum est cupidatat nulla. Fugiat irure Lorem elit Lorem commodo deserunt laboris mollit mollit dolor pariatur ex est. Labore cupidatat nisi cupidatat ad amet eiusmod quis elit consequat. Minim ea aliquip consequat quis nisi amet occaecat ex occaecat et. Occaecat veniam deserunt exercitation tempor nostrud cillum fugiat aliquip.

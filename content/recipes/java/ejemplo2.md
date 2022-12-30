@@ -2,7 +2,7 @@
 title: "Ejemplo2"
 date: 2022-12-29T20:39:19+01:00
 tags: ["java", "docker"]
-draft: true
+draft: false
 ---
 
 Ipsum cillum est ex eu sunt mollit dolore. Ut irure est velit elit excepteur adipisicing anim sit veniam adipisicing. Nisi mollit elit reprehenderit excepteur irure qui consequat magna nisi est adipisicing occaecat. Aliqua nulla ullamco laborum quis reprehenderit et. Mollit eu commodo duis culpa mollit. Aliquip cillum voluptate et ea deserunt. Pariatur in labore nisi sunt irure aute velit in nulla reprehenderit.

@@ -2,7 +2,7 @@
 title: "Ejemplo"
 date: 2022-12-29T20:43:37+01:00
 tags: ["test"]
-draft: true
+draft: false
 ---
 
 Proident anim culpa esse adipisicing esse reprehenderit velit est aliquip cupidatat ut aliqua. Adipisicing Lorem enim deserunt fugiat sit ex eiusmod deserunt commodo. Proident magna veniam ex adipisicing.
