@@ -1,4 +1,5 @@
 baseURL = 'https://moconinja.github.io/moconinjas_site/'
+canonifyURLs = true
 languageCode = 'es-es'
 title = 'My New Hugo Site'
 theme = 'moconinjas_theme'
