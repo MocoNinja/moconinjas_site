@@ -17,3 +17,8 @@ He bootstrapeado el tema (recalco, vacío) con:
 2. `hugo new theme moconinjas_theme`
 
 > Esto crea la estructura vacía, sin git ni nada, por lo que es importante hacer un submódulo de esto cuando nos pongamos serios
+
+
+3. CI CD
+
+Mirar [esto](https://ehlers.berlin/blog/private-submodules-in-github-ci/) para ayudar a clonar un submódulo pribado
